@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/integr8ly/grafana-operator)
+
 # Grafana Operator
 
 A Kubernetes Operator based on the Operator SDK for creating and managing Grafana instances.
